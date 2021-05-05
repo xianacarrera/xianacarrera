@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 2
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xianacarrera&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats-blond-eta.vercel.app/api/top-langs/?username=xianacarrera&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats-ten-henna.vercel.app/api/top-langs/?username=xianacarrera&langs_count=5&theme=tokyonight)]()
